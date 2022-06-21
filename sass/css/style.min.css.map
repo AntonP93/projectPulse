@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,CAAC,AAAC,CACE,WAAW,CAAE,6BAA6B,CAC7C,AACD,AAAA,UAAU,AAAA,CACN,SAAS,CAAE,KAAK,CAChB,MAAM,CAAE,MAAM,CACjB",
+    "sources": [
+        "../blocks/style.scss",
+        "../base/_veriables.sass"
+    ],
+    "names": [],
+    "file": "style.min.css"
+}

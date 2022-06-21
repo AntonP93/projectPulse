@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,MAAM,AAAA,CACD,SAAS,CAAE,KAAK,CACjB,OAAO,CAAE,aAAa,CACtB,UAAU,CAAE,8BAA8B,CAAC,MAAM,CAAC,YAAc,CAAC,SAAS,CAC7E",
+    "sources": [
+        "../blocks/promo.scss"
+    ],
+    "names": [],
+    "file": "promo.min.css"
+}
