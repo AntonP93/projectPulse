@@ -1,0 +1,21 @@
+@import 'base/_veriables.sass';
+* {
+    font-family: 'Museo Sans Cyrl', sans-serif;
+}
+.container{
+    min-width: 950px;
+    margin: 0 auto;
+}
+@import 'blocks/promo';
+@import 'blocks/header';
+@import 'blocks/buttons';
+@import 'blocks/benefits';
+@import 'blocks/consultation';
+@import 'blocks/forms';
+@import 'blocks/carousel';
+@import 'blocks/catalog';
+@import 'blocks/footer';
+@import 'blocks/modal';
+@import 'blocks/pageup';
+@import 'base/media';
+@import 'base/animations';
